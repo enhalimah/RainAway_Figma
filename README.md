@@ -7,7 +7,7 @@ This repository contains the user interface (UI) prototype created in Figma for 
 - Dashboard to monitor roof status
 - Controls to open or close the roof
 - Automation settings (e.g., rain detection, wind sensor)
-- Responsive design suitable for mobile and desktop
+- Responsive design suitable for mobile
 
 ## 📎 Figma Design
 👉 [View the Figma Prototype](https://www.figma.com/file/your-file-id](https://www.figma.com/proto/LzGtJGHyqcI9iLvsEN70IN/RainAway?node-id=78-1086&p=f&t=OmUrWjEpHPL09hY8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A7))
